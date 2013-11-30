@@ -40,10 +40,7 @@ public class HelloWorld3 {
 	        
 	        System.out.println("Hello, World  experiment3");
 	        
-	       
-	        
-	        
-	        
+  
 	        
 	        
 	        
