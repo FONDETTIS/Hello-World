@@ -36,17 +36,7 @@ public class HelloWorld3 {
 	 public static void main(String[] args) {
 	        System.out.println("Hello, World  experiment1");
 	        
-	        System.out.println("Hello, World  experiment2");    
 	        
-	        System.out.println("Hello, World  experiment3");
-	        
-	        System.out.println("Hello, World  experiment4");
-	        
-	        System.out.println("Hello, World  experiment5");
-	        	        
-	        System.out.println("Hello, World  stash1");
-	        
-	        System.out.println("Hello, World  stash2");
 	        
 	    }
 
